@@ -13,4 +13,6 @@ For Example External_IP:Port_No
 Github Repo :- https://github.com/DeekshithSN/kubernetes.git
 Go to Monitoring Directory. THere are yaml files for promothes, grafana,kibana
 
-I referred this GitHub Repo for deploying dashboard to Kubernetes Cluster.
+Grafana username :- admin
+        password :- admin
+
