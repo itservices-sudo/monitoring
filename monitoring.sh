@@ -1,6 +1,4 @@
-#/bin/bash
-aws eks --region us-east-1 update-kubeconfig --name eks-cluster
-export kubeconfig=~/.kube/config
+#/bin/bash 
 kubectl get svc
 kubectl get nodes
 kubectl get pods
