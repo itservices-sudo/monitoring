@@ -9,10 +9,6 @@ kibana    31336
 
 For Example External_IP:Port_No
 
-
-Github Repo :- https://github.com/DeekshithSN/kubernetes.git
-Go to Monitoring Directory. THere are yaml files for promothes, grafana,kibana
-
 Grafana username :- admin
         password :- admin
 
